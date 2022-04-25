@@ -22,7 +22,7 @@ int main ()
     cin>> x;
 
 
-    cout<<"r ="<<x<<endl;
+    cout<<" redius,r ="<<x<<endl;
     getArea();
     getCircumference();
 
